@@ -1,0 +1,20 @@
+@media screen and (max-width: 425px) {
+    #Light-Btn{
+    left: 30vw;
+}
+}
+@media screen and (max-width: 425px) {
+    #Let-Btn{
+    left: 30vw;
+}
+}
+@media screen and (max-width: 425px) {
+    #Wt-Btn{
+    left: 30vw;
+}
+}
+@media screen and (max-width: 500px) {
+.Wish{
+    font-size: 30px;
+}
+}
